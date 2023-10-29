@@ -18,8 +18,8 @@ public class Main {
         college.addStudent(s2);
         college.addStudent(s3);
         college.addTeacher(t1);
-        college.addTeacher(t2);
-        college.addTeacher(t3);
+      //  college.addTeacher(t2);
+       // college.addTeacher(t3);
         college.printDetail();
 
     }
